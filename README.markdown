@@ -1,6 +1,8 @@
 delayed_job_web
 ===============
 
+*This fork supports the Sequel ORM only*
+
 A [resque][0] inspired (read: stolen) interface for delayed_job.
 This gem is written to work with rails 3 and 4 applications using
 activerecord.
